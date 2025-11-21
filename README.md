@@ -95,5 +95,10 @@ I enjoy minimalistic and quiet photography, especially natural light and simple 
 
 ---
 
-## �� Contact
+## �� Connect With Me
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishipraval/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishipraval07/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishipraval@gmail.com)
+
 Always open to discussing algorithms, writing, or interesting ideas.
