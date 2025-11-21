@@ -1,9 +1,99 @@
-- 👋 Hi, I’m @imrishi007
-- 👀 I am interested in watching anime and doing random stuff..
-- 🌱 I’m currently learning Computer Science in various languages and I am proud to say I haven't mastered a single one XD
-- ⚡ Fun fact: I am a Human Being..
+# Hi, I'm Rishi 👋
 
-<!---
-imrishi007/imrishi007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Algorithms • Computational Thinking • Writing
+
+I'm a Computer Science student who enjoys **problem-solving**, **mathematical intuition**, and explaining complex ideas in simple words.  
+My main interests are **DSA**, **core CS concepts**, and the early foundations of **quantitative finance**.
+
+I'm not focused on software development — I prefer building things only when they feel intellectually meaningful.
+
+---
+
+## 🧠 What I Do
+
+### **Algorithmic Problem Solving**
+- Solved **400+ LeetCode problems**
+- Strong focus on:
+  - Dynamic Programming  
+  - Graph Theory  
+  - Greedy Algorithms  
+  - Two Pointers & Sliding Window  
+  - Bit Manipulation  
+- I like breaking problems down into clear explanations and patterns.
+
+---
+
+## 📌 Major Projects
+
+### **1. Recursify – DSA Explanation Blog**
+A structured blog where I explain data structures and algorithms in a simple and intuitive way.
+
+- Custom HTML/CSS/JS layout  
+- Collapsible code blocks  
+- Searchable posts  
+- Focus on clarity and intuition  
+- Live website: **https://recursify.vercel.app**
+
+---
+
+### **2. Neural Made Simple – Neural Network Blog**
+A clean and minimal website where I break down neural networks and ML concepts in simple, intuitive language.
+
+- Concept explanations without heavy math  
+- Written to make neural networks feel accessible  
+- Focus on clarity and core intuition  
+- Live website: **https://neuralmadesimple.vercel.app**
+
+---
+
+### **3. Stock Price Prediction System**
+A machine learning project containing two models:
+
+- **Regression model** for predicting next-day prices  
+- **Classification model** for predicting movement direction  
+- Custom feature engineering  
+- Educational and exploratory financial ML project  
+
+---
+
+## ✍️ Writing
+
+### **Unwritten Pages**  
+A reflective story about connection, loneliness, and everyday moments.  
+https://www.wattpad.com/story/396813666-unwritten-pages
+
+---
+
+## 📷 Photography
+I enjoy minimalistic and quiet photography, especially natural light and simple compositions.
+
+---
+
+## 🛠️ Known Languages & Technologies
+
+### **Programming Languages**
+- C  
+- C++  
+- Python  
+- Java  
+- HTML, CSS, JavaScript  
+- React
+
+### **Computer Science Fundamentals**
+- Data Structures & Algorithms  
+- Operating Systems  
+- Theory of Computation  
+- Basic Networking  
+- Introductory Quant concepts
+
+### **Tools & Platforms**
+- Git & GitHub  
+- Linux (Fedora, Kali, Arch)  
+- Cisco Packet Tracer  
+- VS Code  
+- Jupyter Notebook
+
+---
+
+## �� Contact
+Always open to discussing algorithms, writing, or interesting ideas.
