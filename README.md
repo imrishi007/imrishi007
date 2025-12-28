@@ -1,104 +1,101 @@
-# Hi, I'm Rishi 👋
+# Hi, I’m Rishi
 
-### Algorithms • Computational Thinking • Writing
+Quant-inclined Computer Science student with a strong focus on **algorithmic problem solving**,  
+**mathematical intuition**, and **core CS fundamentals**.
 
-I'm a Computer Science student who enjoys **problem-solving**, **mathematical intuition**, and explaining complex ideas in simple words.  
-My main interests are **DSA**, **core CS concepts**, and the early foundations of **quantitative finance**.
-
-I'm not focused on software development — I prefer building things only when they feel intellectually meaningful.
-
----
-
-## 🧠 What I Do
-
-### **Algorithmic Problem Solving**
-- Solved **400+ LeetCode problems**
-- Strong focus on:
-  - Dynamic Programming  
-  - Graph Theory  
-  - Greedy Algorithms  
-  - Two Pointers & Sliding Window  
-  - Bit Manipulation  
-- I like breaking problems down into clear explanations and patterns.
+I’m drawn to intellectually hard problems and prefer depth over surface-level engineering.
+I enjoy reasoning-heavy work and exploring ideas that sit slightly off the mainstream path.
 
 ---
 
-## 📌 Major Projects
+## Areas of Focus
 
-### **1. Recursify – DSA Explanation Blog**
-A structured blog where I explain data structures and algorithms in a simple and intuitive way.
+- Data Structures & Algorithms  
+- Dynamic Programming, Graph Theory, Greedy Methods  
+- Sliding Window & Two Pointers  
+- Bit Manipulation and Discrete Math  
+- Operating Systems and Theory of Computation  
+- Early foundations of finance-oriented systems  
 
-- Custom HTML/CSS/JS layout  
+---
+
+## LeetCode
+
+![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=rishipraval)
+
+Profile: https://leetcode.com/u/rishipraval/
+
+- 450+ problems solved (live updating)  
+- Global Rank: **193,217**  
+
+Profile: https://leetcode.com/u/rishipraval/
+
+---
+
+## Selected Projects
+
+### Recursify
+**An intuition-first DSA explanation blog.**  
+Built to explain algorithms clearly without relying on rote patterns or memorization.
+
+- Custom HTML, CSS, JavaScript  
 - Collapsible code blocks  
 - Searchable posts  
-- Focus on clarity and intuition  
-- Live website: **https://recursify.vercel.app**
+- Minimal, distraction-free layout  
+
+https://recursify.vercel.app
 
 ---
 
-### **2. Neural Made Simple – Neural Network Blog**
-A clean and minimal website where I break down neural networks and ML concepts in simple, intuitive language.
+### RishiWrites
+A personal space for structured thinking and long-form writing.  
+Focused on clarity and ideas rather than engagement metrics.
 
-- Concept explanations without heavy math  
-- Written to make neural networks feel accessible  
-- Focus on clarity and core intuition  
-- Live website: **https://neuralmadesimple.vercel.app**
+https://rishiwrites.vercel.app
 
 ---
 
-### **3. Stock Price Prediction System**
-A machine learning project containing two models:
+### Stock Price Prediction System
+An exploratory machine learning project aimed at understanding **financial time-series behavior**,  
+not at making trading claims.
 
-- **Regression model** for predicting next-day prices  
-- **Classification model** for predicting movement direction  
+- Regression model for next-day price prediction  
+- Classification model for directional movement  
 - Custom feature engineering  
-- Educational and exploratory financial ML project  
+- Educational and research-oriented approach  
 
 ---
 
-## ✍️ Writing
+## Tech Stack
 
-### **Unwritten Pages**  
-A reflective story about connection, loneliness, and everyday moments.  
-https://www.wattpad.com/story/396813666-unwritten-pages
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&perline=7" />
+</p>
 
----
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react&perline=7" />
+</p>
 
-## 📷 Photography
-I enjoy minimalistic and quiet photography, especially natural light and simple compositions.
-
----
-
-## 🛠️ Known Languages & Technologies
-
-### **Programming Languages**
-- C  
-- C++  
-- Python  
-- Java  
-- HTML, CSS, JavaScript  
-- React
-
-### **Computer Science Fundamentals**
-- Data Structures & Algorithms  
-- Operating Systems  
-- Theory of Computation  
-- Basic Networking  
-- Introductory Quant concepts
-
-### **Tools & Platforms**
-- Git & GitHub  
-- Linux (Fedora, Kali, Arch)  
-- Cisco Packet Tracer  
-- VS Code  
-- Jupyter Notebook
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&perline=7" />
+</p>
 
 ---
 
-## �� Connect With Me
+## Background
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishipraval/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishipraval07/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishipraval@gmail.com)
+- Strong foundation in Computer Science fundamentals  
+- Comfortable working in Linux environments (Fedora, Kali, Arch)  
+- Interested in finance-adjacent systems and quantitative thinking  
+- Prefer learning through first principles and problem decomposition  
 
-Always open to discussing algorithms, writing, or interesting ideas.
+---
+
+## Links
+
+- GitHub: https://github.com/rishipraval  
+- LeetCode: https://leetcode.com/u/rishipraval/  
+- LinkedIn: https://www.linkedin.com/in/rishipraval07/  
