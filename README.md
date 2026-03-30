@@ -25,7 +25,7 @@ I enjoy reasoning-heavy work and exploring ideas that sit slightly off the mains
 
 Profile: https://leetcode.com/u/rishipraval/
 
-- 450+ problems solved (live updating)  
+- 600+ problems solved (live updating)  
 - Global Rank: **193,217**  
 
 Profile: https://leetcode.com/u/rishipraval/
